@@ -1,0 +1,13 @@
+{
+  "name": "web-snapshot-standalone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright": "1.53.0",
+    "archiver": "^7.0.1"
+  }
+}
